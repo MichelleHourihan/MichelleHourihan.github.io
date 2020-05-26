@@ -1,0 +1,78 @@
+
+.name h1{
+	color: #250466;
+	font-family:helvetica;
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:20px;	
+	}
+	
+.bg-custom{
+	background-color:#250466;
+}
+
+
+nav{
+margin: 10px 0 0 ;
+padding: 10px 0;
+
+}
+
+
+.navbar-nav > li{
+  padding-left:70px;
+  padding-right:70px;
+}
+
+nav li a {
+  font-weight: normal;
+  font-size: large; 
+}
+	
+.picture{
+	margin-top:40px;
+
+	
+}
+	
+.about{
+	margin-top:40px;
+	color:#737373;
+	
+}
+	
+	.alas {
+  word-break:break-all;
+  color:green;
+  white-space: wrap;
+ 
+}
+
+#ul{
+margin-top:10px;
+
+
+}
+
+#cambridge{
+margin-top:30px;
+}
+
+#leeds{
+	margin-top:30px;
+}
+	
+#github{
+	
+}
+	
+
+#langlink{
+	margin-top:20px;
+}
+
+
+	
+	
+
+		
