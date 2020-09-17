@@ -31,8 +31,8 @@ nav {
   border-left: 6px solid black;
   height: 500px; }
 
-.navbar-nav > ul {
-  padding-left: 500px;
+.navbar-nav > li {
+  padding-left: 100px;
   padding-right: 10px; }
 
 nav li a {
