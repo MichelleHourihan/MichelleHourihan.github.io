@@ -30,7 +30,7 @@ nav {
   border-left: 6px solid black;
   height: 500px; }
 
-.navbar-nav > li {
+.navbar-nav > ul {
   padding-left: 500px;
   padding-right: 10px; }
 
