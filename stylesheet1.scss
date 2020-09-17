@@ -1,0 +1,108 @@
+
+$color:#250466;
+
+.name h1{
+	color: $color;
+	font-family:helvetica;
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:20px;	
+	}
+	
+@media screen and (max-width:900px) {
+	.name h1{
+		color: white;
+		background-color:#250466;
+	}
+}
+	
+@media print{
+	.name h1 {
+		display:none;
+	}
+}
+
+
+h2{
+	background-color: $color;
+	color:white;
+	border-radius: 15px;
+	text-align:center;
+	padding-bottom:5px;
+}
+	
+.bg-custom{
+	background-color:$color;
+}
+
+
+nav{
+margin: 10px 0 0 ;
+padding: 10px 0;
+}
+
+
+.vl {
+  border-left: 6px solid black;
+  height: 500px;
+}
+
+.navbar-nav > li{
+  padding-left:110px;
+  padding-right:70px;
+}
+
+nav li a {
+  font-weight: normal;
+  font-size: large; 
+}
+
+
+.picture{
+	margin-top:40px;	
+}
+	
+.about{
+	margin-top:40px;
+	color:#737373;
+}
+	
+#ul{
+margin-top:10px;
+}
+
+#cambridge{
+margin-top:30px;
+}
+
+#leeds{
+margin-top:30px;
+}
+	
+
+.name h1:hover{
+	color:blue;
+}	
+
+#langlink{
+	margin-top:20px;
+}
+
+#langhouse{
+	margin-top:30px;
+}
+
+#inthouse{
+	margin-top:30px;
+}
+
+table{
+	border: 1px solid #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+	
