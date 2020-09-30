@@ -1,5 +1,5 @@
 .name h1 {
-  color: black;
+  color: #000000;
   font-family: helvetica;
   text-align: center;
   padding-top: 20px;
@@ -8,19 +8,19 @@
 @media screen and (max-width: 900px) {
   .name h1 {
     color: white;
-    background-color: black; } }
+    background-color: #000000; } }
 @media print {
   .name h1 {
     display: none; } }
 h2 {
-  background-color: black;
+  background-color: #000000;
   color: white;
   border-radius: 15px;
   text-align: center;
   padding-bottom: 5px; }
 
 .bg-custom {
-  background-color: black; }
+  background-color: #000000; }
 
 nav {
   padding-left: 100px;
