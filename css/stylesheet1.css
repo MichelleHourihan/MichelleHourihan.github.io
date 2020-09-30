@@ -1,5 +1,5 @@
 .name h1 {
-  color: #250466;
+  color: black;
   font-family: helvetica;
   text-align: center;
   padding-top: 20px;
@@ -8,12 +8,12 @@
 @media screen and (max-width: 900px) {
   .name h1 {
     color: white;
-    background-color: #250466; } }
+    background-color: black; } }
 @media print {
   .name h1 {
     display: none; } }
 h2 {
-  background-color: #250466;
+  background-color: black;
   color: white;
   border-radius: 15px;
   text-align: center;
